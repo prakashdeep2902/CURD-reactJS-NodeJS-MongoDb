@@ -28,40 +28,6 @@ Copy code
 npm install
 Set up the database:
 
-Start your MongoDB server.
-Update the MongoDB connection URL in the config/database.js file located in the backend directory.
-Start the backend server:
 
-Navigate to the backend directory.
-
-Run the following command to start the server:
-
-bash
-Copy code
-node index.js
-or
-
-bash
-Copy code
-nodemon
-Start the frontend client:
-
-Navigate to the frontend directory.
-
-Run the following command to start the client:
-
-bash
-Copy code
-npm start
-Open your web browser and access the application at http://localhost:3000.
-
-Functionality
-The website provides the following functionality:
-
-View all items: The homepage displays a list of all items in the collection.
-View item details: Clicking on an item from the list displays its details on a separate page.
-Create a new item: Users can add a new item to the collection by filling out a form.
-Update an existing item: Users can edit the details of an existing item using a form.
-Delete an item: Users can delete an item from the collection.
-Contributing
-Contributions are welcome! If you find any issues or want to enhance the project, feel free to open a pull request.
+To see how the project works, watch the demo video that demonstrates the CRUD operations and the user interface of the website.
+Link:https://youtu.be/sxrttXkpL9s
